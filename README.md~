@@ -1,1 +1,0 @@
-# holbertonschool-zero_day
