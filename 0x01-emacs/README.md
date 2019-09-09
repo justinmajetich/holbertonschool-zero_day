@@ -1,0 +1,1 @@
+This folder houses files which were created to fulfill the tasks delineated in the project titled "0x01.Emacs". Each file contains the Emacs command to perform the action suggested by its file name. 
