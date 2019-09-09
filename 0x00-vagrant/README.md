@@ -1,0 +1,1 @@
+This directory was created as part of a larger project to demonstrate the basics of Git. Herewithin you'll find a file ("0-hello_ubuntu") which contains the output of the `uname` command upon running my UBUNTU VM.
