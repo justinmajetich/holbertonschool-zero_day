@@ -1,3 +1,1 @@
-# holbertonschool-zero_day
-
-This is my first repository created as a Holberton student. 
+This is my first repository created as a Holberton student. It contains an arrangement of folders, each associated with a particular project. These project folders are in turn filled with the answers and solutions to tasks outlined in each project. 
